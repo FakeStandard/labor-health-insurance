@@ -80,7 +80,7 @@ export default {
     },
     // 監聽部分工時勞工按鈕點擊事件
     async openPartial () {
-      await this.$http.get('labor-health-insurance/static/partial.json')
+      await this.$http.get('/labor-health-insurance/static/partial.json')
         .then((res) => {
           this.infolist = res.data
           this.$notify.warning({
@@ -97,7 +97,7 @@ export default {
     },
     // 監聽職訓機構受訓者勞工按鈕點擊事件
     async openTrainee () {
-      await this.$http.get('labor-health-insurance/static/trainee.json')
+      await this.$http.get('/labor-health-insurance/static/trainee.json')
         .then((res) => {
           this.infolist = res.data
           this.$notify.warning({
@@ -114,7 +114,7 @@ export default {
     },
     // 監聽職訓機構受訓者勞工按鈕點擊事件
     async openHandicapped () {
-      await this.$http.get('labor-health-insurance/static/handicapped.json')
+      await this.$http.get('/labor-health-insurance/static/handicapped.json')
         .then((res) => {
           this.infolist = res.data
           this.$notify.warning({
