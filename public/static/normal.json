@@ -1,0 +1,92 @@
+[
+    {
+        "Identity": "一般勞工",
+        "Level": "第1級",
+        "SalaryRange": "24000以下",
+        "InsuredSalaryLevel": "24000"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第2級",
+        "SalaryRange": "24001~25200",
+        "InsuredSalaryLevel": "25200"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第3級",
+        "SalaryRange": "25201~26400",
+        "InsuredSalaryLevel": "26400"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第4級",
+        "SalaryRange": "26401~27600",
+        "InsuredSalaryLevel": "27600"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第5級",
+        "SalaryRange": "27601~28800",
+        "InsuredSalaryLevel": "28800"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第6級",
+        "SalaryRange": "28801~30300",
+        "InsuredSalaryLevel": "30300"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第7級",
+        "SalaryRange": "30301~31800",
+        "InsuredSalaryLevel": "31800"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第8級",
+        "SalaryRange": "31801~33300",
+        "InsuredSalaryLevel": "33300"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第9級",
+        "SalaryRange": "33301~34800",
+        "InsuredSalaryLevel": "34800"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第10級",
+        "SalaryRange": "34801~36300",
+        "InsuredSalaryLevel": "36300"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第11級",
+        "SalaryRange": "36301~38200",
+        "InsuredSalaryLevel": "38200"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第12級",
+        "SalaryRange": "38201~40100",
+        "InsuredSalaryLevel": "40100"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第13級",
+        "SalaryRange": "40101~42000",
+        "InsuredSalaryLevel": "42000"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第14級",
+        "SalaryRange": "42001~43900",
+        "InsuredSalaryLevel": "43900"
+    },
+    {
+        "Identity": "一般勞工",
+        "Level": "第15級",
+        "SalaryRange": "43901以上",
+        "InsuredSalaryLevel": "45800"
+    }
+]
