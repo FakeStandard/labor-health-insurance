@@ -28,3 +28,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Finished Product
 [2021 勞保投保薪資分級表](https://fakestandard.github.io/labor-health-insurance/#/)
+
+![Demo](src/assets/Demo.png)
