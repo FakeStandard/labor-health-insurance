@@ -1,14 +1,14 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Calculator from '@/components/Calculator.vue'
+import LaborGrading from '@/components/LaborGrading.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'Calculator',
-    component: Calculator
+    name: 'LaborGrading',
+    component: LaborGrading
   }
 ]
 
