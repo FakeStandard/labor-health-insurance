@@ -3,7 +3,7 @@
     <!--Header-->
     <h1>
       <span style="font-family: fantasy">2021 </span>
-      <span style="font-family: Microsoft JhengHei">勞保投保薪資分級表</span>
+      <span style="font-family: Microsoft JhengHei">勞工保險投保薪資分級表</span>
     </h1>
     <!--Card-->
     <el-card style="width: 80%">
@@ -33,8 +33,7 @@
 export default {
   data () {
     return {
-      infolist: [],
-      radio1: '上海'
+      infolist: []
     }
   },
   created () {
@@ -43,7 +42,7 @@ export default {
   methods: {
     // 修改 Table Header 背景色.字體色.字體大小
     tableHeaderColor () {
-      return 'background-color: #5CADAD;color: #FFFFFF;'
+      return 'background-color: #AD8F09;color: #FFFFFF;'
     },
     // Get json data
     async getInfo () {
@@ -54,14 +53,14 @@ export default {
       // this.infolist = info.result.records
 
       // 測試用 /static/normal.json
-      const { data: info } = await this.$http.get('static/normal.json').catch(() => {
+      const { data: info } = await this.$http.get('static/labor-normal.json').catch(() => {
         return this.$message.error('資料取得失敗')
       })
       this.infolist = info
     },
     // 監聽一般勞工按鈕點擊事件
     async openNormal () {
-      await this.$http.get('static/normal.json')
+      await this.$http.get('static/labor-normal.json')
         .then((res) => {
           this.infolist = res.data
           this.$notify.warning({
@@ -80,7 +79,7 @@ export default {
     },
     // 監聽部分工時勞工按鈕點擊事件
     async openPartial () {
-      await this.$http.get('static/partial.json')
+      await this.$http.get('static/labor-partial.json')
         .then((res) => {
           this.infolist = res.data
           this.$notify.warning({
@@ -97,7 +96,7 @@ export default {
     },
     // 監聽職訓機構受訓者勞工按鈕點擊事件
     async openTrainee () {
-      await this.$http.get('static/trainee.json')
+      await this.$http.get('static/labor-trainee.json')
         .then((res) => {
           this.infolist = res.data
           this.$notify.warning({
@@ -114,7 +113,7 @@ export default {
     },
     // 監聽職訓機構受訓者勞工按鈕點擊事件
     async openHandicapped () {
-      await this.$http.get('static/handicapped.json')
+      await this.$http.get('static/labor-handicapped.json')
         .then((res) => {
           this.infolist = res.data
           this.$notify.warning({

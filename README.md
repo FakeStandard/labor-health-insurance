@@ -14,3 +14,4 @@
 
 ### Open Data
 [勞保投保薪資分級表](https://data.gov.tw/dataset/6258)
+[全民健康保險投保金額分級表](https://data.gov.tw/dataset/20251)
