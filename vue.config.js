@@ -3,5 +3,8 @@
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
     ? '/labor-health-insurance/'
-    : '/'
+    : '/',
+  css: {
+    extract: false
+  }
 }
