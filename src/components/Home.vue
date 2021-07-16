@@ -1,7 +1,7 @@
 <template>
   <el-container class="home">
     <el-header>
-      <div style="margin-left: 10%;">
+      <div style="margin-left: 30%;">
         <el-menu
           :default-active="$router.path"
           class="el-menu-demo"
@@ -29,6 +29,7 @@
               >
             </el-menu-item>
           </el-submenu>
+          <el-menu-item index="/Calculation">薪資試算</el-menu-item>
           <!-- <el-menu-item index="2">处理中心</el-menu-item>
         <el-menu-item index="3" disabled>消息中心</el-menu-item>
         <el-menu-item index="4"

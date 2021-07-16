@@ -4,6 +4,7 @@ import Home from '@/components/Home.vue'
 import Main from '@/components/Main.vue'
 import LaborGrading from '@/components/LaborGrading.vue'
 import HealthGrading from '@/components/HealthGrading.vue'
+import Calculation from '@/components/Calculation.vue'
 
 // 導入全域樣式
 import '../assets/css/global.css'
@@ -23,7 +24,8 @@ const routes = [
     children: [
       { path: '/Main', component: Main },
       { path: '/LaborGrading', component: LaborGrading },
-      { path: '/HealthGrading', component: HealthGrading }
+      { path: '/HealthGrading', component: HealthGrading },
+      { path: '/Calculation', component: Calculation }
     ]
   }
 ]

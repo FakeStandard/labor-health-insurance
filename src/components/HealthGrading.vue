@@ -1,5 +1,5 @@
 <template>
-  <div class="laborGrading" align="center">
+  <div class="healthGrading" align="center">
     <!--Header-->
     <h1>
       <span style="font-family: fantasy">2021 </span>
@@ -14,8 +14,7 @@
           <el-table-column prop="Distance" label="組別級距" align="center"></el-table-column>
           <el-table-column prop="Level" label="投保等級" align="center"></el-table-column>
           <el-table-column prop="InsuredSalaryLevel" label="月投保金額（元）" align="center"></el-table-column>
-          <el-table-column prop="SalaryRange" label="實際薪資月額（元）
-" align="center"></el-table-column>
+          <el-table-column prop="SalaryRange" label="實際薪資月額（元）" align="center"></el-table-column>
         </el-table>
       </el-row>
     </el-card>
