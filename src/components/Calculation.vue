@@ -3,7 +3,7 @@
     <!--Header-->
     <h1>
       <span style="font-family: fantasy">2021 </span>
-      <span style="font-family: Microsoft JhengHei">薪資試算</span>
+      <span style="font-family: Microsoft JhengHei">薪資即時試算</span>
     </h1>
     <el-input
       v-model="input"

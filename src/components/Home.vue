@@ -29,14 +29,8 @@
               >
             </el-menu-item>
           </el-submenu>
-          <el-menu-item index="/Calculation">薪資試算</el-menu-item>
-          <!-- <el-menu-item index="2">处理中心</el-menu-item>
-        <el-menu-item index="3" disabled>消息中心</el-menu-item>
-        <el-menu-item index="4"
-          ><a href="https://www.ele.me" target="_blank"
-            >订单管理</a
-          ></el-menu-item
-        > -->
+          <el-menu-item index="/Calculation">薪資即時試算</el-menu-item>
+          <el-menu-item index="/ConversionTable">勞健保及勞退費用對照表</el-menu-item>
         </el-menu>
       </div>
     </el-header>

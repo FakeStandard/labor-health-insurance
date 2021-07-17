@@ -10,7 +10,7 @@
       <el-row>
         <!--Table-->
         <!-- <el-table :data="infolist" style="width: 100%" border stripe :header-cell-style="{background:'#5CADAD',color:'#FFFFFF'}"> -->
-        <el-table :data="infolist" style="width: 80%;font-size: 15px;" border stripe :header-cell-style="tableHeaderColor">
+        <el-table :data="infolist" highlight-current-row="true" style="width: 80%;font-size: 15px;" border stripe :header-cell-style="tableHeaderColor">
           <el-table-column prop="Distance" label="組別級距" align="center"></el-table-column>
           <el-table-column prop="Level" label="投保等級" align="center"></el-table-column>
           <el-table-column prop="InsuredSalaryLevel" label="月投保金額（元）" align="center"></el-table-column>

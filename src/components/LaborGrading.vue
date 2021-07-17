@@ -18,7 +18,7 @@
       <el-row>
         <!--Table-->
         <!-- <el-table :data="infolist" style="width: 100%" border stripe :header-cell-style="{background:'#5CADAD',color:'#FFFFFF'}"> -->
-        <el-table :data="infolist" style="width: 80%;font-size: 15px;" border stripe :header-cell-style="tableHeaderColor">
+        <el-table :data="infolist" style="width: 80%;font-size: 15px;" highlight-current-row="true" border stripe :header-cell-style="tableHeaderColor">
           <el-table-column prop="Identity" label="身分別" align="center"></el-table-column>
           <el-table-column prop="Level" label="投保薪資等級" align="center"></el-table-column>
           <el-table-column prop="SalaryRange" label="月薪資總額" align="center"></el-table-column>
