@@ -1,0 +1,254 @@
+[
+    {
+        "Distance": "第一組級距1200元",
+        "Level": "1",
+        "InsuredSalaryLevel": "24000",
+        "SalaryRange": "24000以下"
+    },
+    {
+        "Distance": "第一組級距1200元",
+        "Level": "2",
+        "InsuredSalaryLevel": "25200",
+        "SalaryRange": "24001-25200"
+    },
+    {
+        "Distance": "第一組級距1200元",
+        "Level": "3",
+        "InsuredSalaryLevel": "26400",
+        "SalaryRange": "25201-26400"
+    },
+    {
+        "Distance": "第一組級距1200元",
+        "Level": "4",
+        "InsuredSalaryLevel": "27600",
+        "SalaryRange": "26401-27600"
+    },
+    {
+        "Distance": "第一組級距1200元",
+        "Level": "5",
+        "InsuredSalaryLevel": "28800",
+        "SalaryRange": "27601-28800"
+    },
+    {
+        "Distance": "第二組級距1500元",
+        "Level": "6",
+        "InsuredSalaryLevel": "30300",
+        "SalaryRange": "28801-30300"
+    },
+    {
+        "Distance": "第二組級距1500元",
+        "Level": "7",
+        "InsuredSalaryLevel": "31800",
+        "SalaryRange": "30301-31800"
+    },
+    {
+        "Distance": "第二組級距1500元",
+        "Level": "8",
+        "InsuredSalaryLevel": "33300",
+        "SalaryRange": "31801-33300"
+    },
+    {
+        "Distance": "第二組級距1500元",
+        "Level": "9",
+        "InsuredSalaryLevel": "34800",
+        "SalaryRange": "33301-34800"
+    },
+    {
+        "Distance": "第二組級距1500元",
+        "Level": "10",
+        "InsuredSalaryLevel": "36300",
+        "SalaryRange": "34801-36300"
+    },
+    {
+        "Distance": "第三組級距1900元",
+        "Level": "11",
+        "InsuredSalaryLevel": "38200",
+        "SalaryRange": "36301-38200"
+    },
+    {
+        "Distance": "第三組級距1900元",
+        "Level": "12",
+        "InsuredSalaryLevel": "40100",
+        "SalaryRange": "38201-40100"
+    },
+    {
+        "Distance": "第三組級距1900元",
+        "Level": "13",
+        "InsuredSalaryLevel": "42000",
+        "SalaryRange": "40101-42000"
+    },
+    {
+        "Distance": "第三組級距1900元",
+        "Level": "14",
+        "InsuredSalaryLevel": "43900",
+        "SalaryRange": "42001-43900"
+    },
+    {
+        "Distance": "第三組級距1900元",
+        "Level": "15",
+        "InsuredSalaryLevel": "45800",
+        "SalaryRange": "43901-45800"
+    },
+    {
+        "Distance": "第四組級距2400元",
+        "Level": "16",
+        "InsuredSalaryLevel": "48200",
+        "SalaryRange": "45801-48200"
+    },
+    {
+        "Distance": "第四組級距2400元",
+        "Level": "17",
+        "InsuredSalaryLevel": "50600",
+        "SalaryRange": "48201-50600"
+    },
+    {
+        "Distance": "第四組級距2400元",
+        "Level": "18",
+        "InsuredSalaryLevel": "53000",
+        "SalaryRange": "50601-53000"
+    },
+    {
+        "Distance": "第四組級距2400元",
+        "Level": "19",
+        "InsuredSalaryLevel": "55400",
+        "SalaryRange": "53001-55400"
+    },
+    {
+        "Distance": "第四組級距2400元",
+        "Level": "20",
+        "InsuredSalaryLevel": "57800",
+        "SalaryRange": "55401-57800"
+    },
+    {
+        "Distance": "第五組級距3000元",
+        "Level": "21",
+        "InsuredSalaryLevel": "60800",
+        "SalaryRange": "57801-60800"
+    },
+    {
+        "Distance": "第五組級距3000元",
+        "Level": "22",
+        "InsuredSalaryLevel": "63800",
+        "SalaryRange": "60801-63800"
+    },
+    {
+        "Distance": "第五組級距3000元",
+        "Level": "23",
+        "InsuredSalaryLevel": "66800",
+        "SalaryRange": "63801-66800"
+    },
+    {
+        "Distance": "第五組級距3000元",
+        "Level": "24",
+        "InsuredSalaryLevel": "69800",
+        "SalaryRange": "66801-69800"
+    },
+    {
+        "Distance": "第五組級距3000元",
+        "Level": "25",
+        "InsuredSalaryLevel": "72800",
+        "SalaryRange": "69801-72800"
+    },
+    {
+        "Distance": "第六組級距3700元",
+        "Level": "26",
+        "InsuredSalaryLevel": "76500",
+        "SalaryRange": "72801-76500"
+    },
+    {
+        "Distance": "第六組級距3700元",
+        "Level": "27",
+        "InsuredSalaryLevel": "80200",
+        "SalaryRange": "76501-80200"
+    },
+    {
+        "Distance": "第六組級距3700元",
+        "Level": "28",
+        "InsuredSalaryLevel": "83900",
+        "SalaryRange": "80201-83900"
+    },
+    {
+        "Distance": "第六組級距3700元",
+        "Level": "29",
+        "InsuredSalaryLevel": "87600",
+        "SalaryRange": "83901-87600"
+    },
+    {
+        "Distance": "第七組級距4500元",
+        "Level": "30",
+        "InsuredSalaryLevel": "92100",
+        "SalaryRange": "87601-92100"
+    },
+    {
+        "Distance": "第七組級距4500元",
+        "Level": "31",
+        "InsuredSalaryLevel": "96600",
+        "SalaryRange": "92101-96600"
+    },
+    {
+        "Distance": "第七組級距4500元",
+        "Level": "32",
+        "InsuredSalaryLevel": "101100",
+        "SalaryRange": "96601-101100"
+    },
+    {
+        "Distance": "第七組級距4500元",
+        "Level": "33",
+        "InsuredSalaryLevel": "105600",
+        "SalaryRange": "101101-105600"
+    },
+    {
+        "Distance": "第七組級距4500元",
+        "Level": "34",
+        "InsuredSalaryLevel": "110100",
+        "SalaryRange": "105601-110100"
+    },
+    {
+        "Distance": "第八組級距5400元",
+        "Level": "35",
+        "InsuredSalaryLevel": "115500",
+        "SalaryRange": "110101-115500"
+    },
+    {
+        "Distance": "第八組級距5400元",
+        "Level": "36",
+        "InsuredSalaryLevel": "120900",
+        "SalaryRange": "115501-120900"
+    },
+    {
+        "Distance": "第八組級距5400元",
+        "Level": "37",
+        "InsuredSalaryLevel": "126300",
+        "SalaryRange": "120901-126300"
+    },
+    {
+        "Distance": "第八組級距5400元",
+        "Level": "38",
+        "InsuredSalaryLevel": "131700",
+        "SalaryRange": "126301-131700"
+    },
+    {
+        "Distance": "第八組級距5400元",
+        "Level": "39",
+        "InsuredSalaryLevel": "137100",
+        "SalaryRange": "131701-137100"
+    },
+    {
+        "Distance": "第八組級距5400元",
+        "Level": "40",
+        "InsuredSalaryLevel": "142500",
+        "SalaryRange": "137101-142500"
+    },
+    {
+        "Distance": "第八組級距5400元",
+        "Level": "41",
+        "InsuredSalaryLevel": "147900",
+        "SalaryRange": "142501-147900"
+    },
+    {
+        "Distance": "第八組級距5400元",
+        "Level": "42",
+        "InsuredSalaryLevel": "150000",
+        "SalaryRange": "147901-150000"
+    }
+]
