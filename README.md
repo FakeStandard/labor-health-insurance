@@ -1,6 +1,8 @@
 # labor-health-insurance
 :rocket: Technology：Vue Cli、Element UI
 
+:fire: 核心構想 :fire:：嘗試解決每次計算薪資時都須一一查表，尤其是面對全部員工的薪資時容易眼花撩亂，深怕一不小心就填錯，故摒棄查表方式，改為使用一個可即時運算薪資的功能，此小品就這樣誕生了！
+
 ## History
 | Date | Description |
 | -- | -- |
